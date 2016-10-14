@@ -1,2 +1,3 @@
 # hello-world
-Testing how Github works
+
+Hi Humans, I like Java.
