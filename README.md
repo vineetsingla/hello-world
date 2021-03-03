@@ -1,3 +1,3 @@
 # hello-world
 
-Hi Humans, I like Java.
+Hi Humans, I like C#.
